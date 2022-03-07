@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="random">Random</string>
+    <string name="perform_operation">Perform Operation</string>
+</resources>
